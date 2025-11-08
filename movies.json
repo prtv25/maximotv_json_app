@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Velozes e Furiosos 10",
+    "poster": "https://m.media-amazon.com/images/I/71Ue4a1Yb9L._AC_UF894,1000_QL80_.jpg",
+    "player1": "https://exemplo.com/velozes1.mp4",
+    "player2": "https://exemplo.com/velozes2.mp4"
+  },
+  {
+    "title": "Avatar 2",
+    "poster": "https://m.media-amazon.com/images/I/81xR0s0QvZL.jpg",
+    "player1": "https://exemplo.com/avatar1.mp4",
+    "player2": "https://exemplo.com/avatar2.mp4"
+  }
+]
