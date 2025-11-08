@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Breaking Bad",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/6/61/Breaking_Bad_title_card.png",
+    "player1": "https://exemplo.com/breakingbad1.mp4",
+    "player2": "https://exemplo.com/breakingbad2.mp4"
+  },
+  {
+    "title": "La Casa de Papel",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/4/4b/Money_Heist_Part_1.jpg",
+    "player1": "https://exemplo.com/lcdp1.mp4",
+    "player2": "https://exemplo.com/lcdp2.mp4"
+  }
+]
