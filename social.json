@@ -1,0 +1,28 @@
+{
+  "social_links": [
+    {
+      "name": "YouTube",
+      "url": "https://youtube.com/seucanal",
+      "icon": "youtube",
+      "color": "#FF0000"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://t.me/seucanal",
+      "icon": "telegram",
+      "color": "#229ED9"
+    },
+    {
+      "name": "X / Twitter",
+      "url": "https://x.com/seuperfil",
+      "icon": "twitter",
+      "color": "#000000"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://instagram.com/seuperfil",
+      "icon": "instagram",
+      "color": "#C13584"
+    }
+  ]
+}
